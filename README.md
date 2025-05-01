@@ -1,16 +1,15 @@
-## Hi there 👋
+## 广告位招租 👋
 
-<!--
-**ben1234560/ben1234560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 一个极具价值的赛事【已圆满结束】
+
+![背景图](assets/title.png)
+
+来源于由清华大学基础模型研究中心主办的《2024金融行业·大模型挑战赛》。400道涉及77张表、3000+字段、涵盖了58个二级市场各个领域（股权、交易、基金、财务、行业、港股、美股等）的类似题目。完全复刻了金融行业二级市场的真实需求。比赛历时4个月，设有初赛A/B轮、复赛A/B轮及决赛答辩多个阶段，吸引1337位选手、300余支队伍参与，最终44支队伍晋级复赛，13支队伍进入决赛，充分展现出金融智能化应用的创新潜力。
+
+**祝清竞越办越好**🎉🎉🎉
+
+比赛地址：[2024金融行业·大模型挑战赛](https://competitions.zhipuai.cn/matchDetail?id=120241202000000003)
+
+我们的获奖[代码](https://github.com/ben1234560/AiLearning-Theory-Applying/tree/master/LLM%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AB%9E%E8%B5%9B%E5%AE%9E%E6%88%98_%E4%BC%98%E8%83%9C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/2024%E9%87%91%E8%9E%8D%E8%A1%8C%E4%B8%9A%C2%B7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8C%91%E6%88%98%E8%B5%9B)
