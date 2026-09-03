@@ -12,18 +12,6 @@
 
 ![title](./assets/title.png)
 
-## 快速开始
-
-公开 Baseline 将在官方核验通过后随 Release 一起发布。届时可在源码仓库的 `EmbodiedAI/竞赛实践/2026-具身仿真合成挑战赛/` 中获得：
-
-```text
-├── public_asset_baseline/   # 源码、测试、GPU 构建说明
-├── CHECKSUMS.md             # Release 与提交包的 MD5 / SHA-256
-└── Release Asset            # 包含预生成 quick_output 的完整复现包
-```
-
-下载后可先在 CPU 环境中校验候选哈希与资产结构；需要从官方 ZIP 重新生成资产时，再按 GPU 指南在阿里云环境运行。
-
 ## 参与与使用说明
 
 - 请以[官方赛事页面](https://tianchi.aliyun.com/competition/entrance/532506/information)的最新规则、时间安排和数据使用要求为准。
