@@ -1,9 +1,29 @@
-## 极具价值的大模型Agent比赛【已圆满结束 祝清竞越办越好🎉🎉🎉】
+# 2026 具身仿真合成挑战赛｜从视频到可交互三维资产
 
-![背景图](assets/title.png)
+> 让物体从一段视频中“走进”仿真环境：生成可渲染、可碰撞、可物理交互的 USD 资产。
 
-来源于由清华大学基础模型研究中心主办的《2024金融行业·大模型挑战赛》。400道涉及77张表、3000+字段、涵盖了58个二级市场各个领域（股权、交易、基金、财务、行业、港股、美股等）的类似题目。完全复刻了金融行业二级市场的真实需求。
+[赛事主页](https://tianchi.aliyun.com/competition/entrance/532506/information) · [公开 Baseline 源码](https://github.com/ben1234560/AiLearning-Theory-Applying/tree/master/EmbodiedAI) · [官方资料与回放](https://github.com/ben1234560/AiLearning-Theory-Applying/tree/master/EmbodiedAI/%E7%AB%9E%E8%B5%9B%E5%AE%9E%E8%B7%B5/2026-%E5%85%B7%E8%BA%AB%E4%BB%BF%E7%9C%9F%E5%90%88%E6%88%90%E6%8C%91%E6%88%98%E8%B5%9B/public_asset_baseline/REFERENCES.md)
 
-比赛地址：[2024金融行业·大模型挑战赛](https://competitions.zhipuai.cn/matchDetail?id=120241202000000003)
+## 这是一场什么比赛？
 
-我们的获奖[代码](https://github.com/ben1234560/AiLearning-Theory-Applying/tree/master/LLM%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AB%9E%E8%B5%9B%E5%AE%9E%E6%88%98_%E4%BC%98%E8%83%9C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/2024%E9%87%91%E8%9E%8D%E8%A1%8C%E4%B8%9A%C2%B7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8C%91%E6%88%98%E8%B5%9B)
+具身智能不止要“看懂”世界，也要能在物理世界中行动。本赛题聚焦从多视角视频生成面向仿真的三维资产：几何、纹理、碰撞体、刚体与 USD 提交格式缺一不可。
+
+这正好位于视觉理解、三维重建、生成式 AI、物理仿真和机器人学习的交叉点。无论你来自计算机视觉、图形学、机器人、强化学习，还是大模型方向，都可以在这里找到可落地的问题。
+
+## 快速开始
+
+公开 Baseline 将在官方核验通过后随 Release 一起发布。届时可在源码仓库的 `EmbodiedAI/竞赛实践/2026-具身仿真合成挑战赛/` 中获得：
+
+```text
+├── public_asset_baseline/   # 源码、测试、GPU 构建说明
+├── CHECKSUMS.md             # Release 与提交包的 MD5 / SHA-256
+└── Release Asset            # 包含预生成 quick_output 的完整复现包
+```
+
+下载后可先在 CPU 环境中校验候选哈希与资产结构；需要从官方 ZIP 重新生成资产时，再按 GPU 指南在阿里云环境运行。
+
+## 参与与使用说明
+
+- 请以[官方赛事页面](https://tianchi.aliyun.com/competition/entrance/532506/information)的最新规则、时间安排和数据使用要求为准。
+
+欢迎关注、交流和共建：把可复现的工程基线变成更可靠、更强的具身智能能力。Enjoy！
