@@ -10,6 +10,8 @@
 
 这正好位于视觉理解、三维重建、生成式 AI、物理仿真和机器人学习的交叉点。无论你来自计算机视觉、图形学、机器人、强化学习，还是大模型方向，都可以在这里找到可落地的问题。
 
+![title](/Users/xueweiguo/Desktop/GitHub/ben1234560/assets/title.png)
+
 ## 快速开始
 
 公开 Baseline 将在官方核验通过后随 Release 一起发布。届时可在源码仓库的 `EmbodiedAI/竞赛实践/2026-具身仿真合成挑战赛/` 中获得：
